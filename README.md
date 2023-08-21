@@ -1,2 +1,2 @@
 # report_generator
-Customizable HTML Reports Generator project with Java
+The Customizable HTML Reports Generator project is a Java-based application developed as part of a Computer Science Object-Oriented Programming coursework. The main objective of this project is to provide a user-friendly solution for processing CSV (Comma-Separated Values) files and generating customizable HTML reports with various styling options, such as colors, font types, and more. The application's core functionality includes implementing functional filters based on mapping techniques to refine the generated reports.
